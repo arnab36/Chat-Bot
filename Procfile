@@ -1,0 +1,1 @@
+web: gunicorn --worker-class eventlet -w 4 welcome:app
