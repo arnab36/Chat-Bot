@@ -1,0 +1,87 @@
+{
+  "statue_messages": [
+    "The instruction data for this shipment have been provided by the sender to DHL electronically",
+    "The shipment has been processed in the parcel center",
+    "The international shipment has been processed in the parcel center of origin",
+    "The international shipment has been processed in the export parcel center",
+    "The shipment will be transported to the destination country and, from there, handed over to the delivery organization. ",
+    "The shipment has arrived in the destination country",
+    "The shipment is being prepared for delivery in the delivery depot",
+    "The shipment has been successfully delivered"
+  ],
+  "services_metrics": [
+    "Drop off",
+    "Pick up",
+    "Online",
+    "Phone",
+    "door-to-door",
+    "next-day",
+    "2-working-day",
+    "5-working-day",
+    "international",
+    "domestic",
+    "signature-on-delivery"
+  ],
+  "types": [
+    "Envelope 1",
+    "Box 2",
+    "Box 3",
+    "Box 4",
+    "Box 5",
+    "Box 6",
+    "Box 7"
+  ],
+  "parcel": {
+    "id": 3873173242,
+    "type": "Envelope 1",
+    "description": "document",
+    "service": [
+      "Pick up",
+      "door-to-door",
+      "international"
+    ],
+    "dimension (inch)": {
+      "length": 13.18,
+      "width": 9.2,
+      "height": 1
+    },
+    "weight (lbs)": "0.11",
+    "address": {
+      "to": {
+        "name": "HackerEarth",
+        "address": "5th Block, Koramangala, Bangalore 560095, IN",
+        "zip": "560095"
+      },
+      "from": {
+        "name": "HCL",
+        "address": "68 King William St, London EC4N 7DZ, UK",
+        "zip": "EC4N 7DZ"
+      }
+    },
+    "tracking": {
+      "code": "3873173242",
+      "current_status": "NOIDA: Out for delivery",
+      "notification": {
+        "email": null,
+        "text": "+44-974-196-7699"
+      },
+      "updates": {
+        "1": [
+          "timestamp",
+          "location",
+          "status"
+        ],
+        "2": [
+          "timestamp",
+          "location",
+          "status"
+        ],
+        "3": [
+          "timestamp",
+          "location",
+          "status"
+        ]
+      }
+    }
+  }
+}
