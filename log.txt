@@ -1,0 +1,176 @@
+('delay_dayr is :: ', 14)
+{u'1': [u'timestamp', u'location', u'status'], u'3': [u'timestamp', u'location', u'status'], u'2': [u'timestamp', u'location', u'status']}
+========== Inside mesageRecieve =========
+The method is POST
+('Received message is :: ', u'')
+('Received message type is :: ', <type 'unicode'>)
+('SENDING INITIAL RESPONSE:', {})
+========== Inside mesageRecieve =========
+The method is POST
+('Received message is :: ', u'3')
+('Received message type is :: ', <type 'unicode'>)
+GOT A MESSAGE:3
+
+ ==========Inside Process Request =========
+3
+
+ ==========Inside chatbot =========
+1.0
+('Number is = ', 3)
+('SENDING RESPONSE FLAG :', 'STRING')
+========== Inside mesageRecieve =========
+The method is POST
+('Received message is :: ', u'1,2,3,4')
+('Received message type is :: ', <type 'unicode'>)
+GOT A MESSAGE:1,2,3,4
+
+ ==========Inside Process Request =========
+1,2,3,4
+('Number is = ', 3)
+('SENDING RESPONSE FLAG :', 'STRING')
+========== Inside mesageRecieve =========
+The method is POST
+('Received message is :: ', u'12')
+('Received message type is :: ', <type 'unicode'>)
+GOT A MESSAGE:12
+
+ ==========Inside Process Request =========
+12
+('Number is = ', 3)
+('SENDING RESPONSE FLAG :', 'STRING')
+========== Inside mesageRecieve =========
+The method is POST
+('Received message is :: ', u'741235')
+('Received message type is :: ', <type 'unicode'>)
+GOT A MESSAGE:741235
+
+ ==========Inside Process Request =========
+741235
+('Number is = ', 3)
+['Buddhapark', '741235', 'India', 'West Bengal', 'Nadia', 'NA', u'\xa0\xa0\xa0', 'Bidhanpark', '741235', 'India', 'West Bengal', 'Nadia', 'NA', u'\xa0\xa0\xa0', 'Kalyani', '741235', 'India', 'West Bengal', 'Nadia', 'NA', u'\xa0\xa0\xa0', 'Kalyani Rs', '741235', 'India', 'West Bengal', 'Nadia', 'NA', u'\xa0\xa0\xa0', 'Kalyani Hospital', '741235', 'India', 'West Bengal', 'Nadia', 'NA', u'\xa0\xa0\xa0', 'Ghoshpara (Nadia)', '741235', 'India', 'West Bengal', 'Nadia', 'NA', u'\xa0\xa0\xa0', 'Gandhi Memorial Hospital', '741235', 'India', 'West Bengal', 'Nadia', 'NA', u'\xa0\xa0\xa0', 'Kalyani University', '741235', 'India', 'West Bengal', 'Nadia', 'NA', u'\xa0\xa0\xa0', 'Kalyani Simanta', '741235', 'India', 'West Bengal', 'Nadia', 'NA', u'\xa0\xa0\xa0', '\n']
+64
+(True, ['Buddhapark,741235,India,Nadia', 'Bidhanpark,741235,India,Nadia', 'Kalyani,741235,India,Nadia', 'Kalyani Rs,741235,India,Nadia', 'Kalyani Hospital,741235,India,Nadia', 'Ghoshpara (Nadia),741235,India,Nadia', 'Gandhi Memorial Hospital,741235,India,Nadia', 'Kalyani University,741235,India,Nadia', 'Kalyani Simanta,741235,India,Nadia'])
+('resp :: ', 'Choose the place from the list <br>')
+('SENDING RESPONSE FLAG :', 'STRING')
+========== Inside mesageRecieve =========
+The method is POST
+('Received message is :: ', u'4')
+('Received message type is :: ', <type 'unicode'>)
+GOT A MESSAGE:4
+
+ ==========Inside Process Request =========
+4
+('Number is = ', 3)
+('parcel source+ ', ['Buddhapark,741235,India,Nadia', 'Bidhanpark,741235,India,Nadia', 'Kalyani,741235,India,Nadia', 'Kalyani Rs,741235,India,Nadia', 'Kalyani Hospital,741235,India,Nadia', 'Ghoshpara (Nadia),741235,India,Nadia', 'Gandhi Memorial Hospital,741235,India,Nadia', 'Kalyani University,741235,India,Nadia', 'Kalyani Simanta,741235,India,Nadia'])
+('SENDING RESPONSE FLAG :', 'STRING')
+========== Inside mesageRecieve =========
+The method is POST
+('Received message is :: ', u'560034')
+('Received message type is :: ', <type 'unicode'>)
+GOT A MESSAGE:560034
+
+ ==========Inside Process Request =========
+560034
+('Number is = ', 3)
+['Agara', '560034', 'India', 'Karnataka', 'Bangalore', 'Bangalore South', u'\xa0\xa0\xa0', 'Koramangala', '560034', 'India', 'Karnataka', 'Bangalore', 'Bangalore South', u'\xa0\xa0\xa0', 'Koramangala I Block', '560034', 'India', 'Karnataka', 'Bangalore', 'Bangalore South', u'\xa0\xa0\xa0', "St. John'S Medical College", '560034', 'India', 'Karnataka', 'Bangalore', 'Bangalore South', u'\xa0\xa0\xa0', '\n']
+29
+(True, ['Agara,560034,India,Bangalore', 'Koramangala,560034,India,Bangalore', 'Koramangala I Block,560034,India,Bangalore', "St. John'S Medical College,560034,India,Bangalore"])
+('resp :: ', 'Choose the place from the list <br>')
+('SENDING RESPONSE FLAG :', 'STRING')
+========== Inside mesageRecieve =========
+The method is POST
+('Received message is :: ', u'3')
+('Received message type is :: ', <type 'unicode'>)
+GOT A MESSAGE:3
+
+ ==========Inside Process Request =========
+3
+('Number is = ', 3)
+0
+1
+2
+3
+4
+5
+6
+('SENDING RESPONSE FLAG :', 'STRING')
+========== Inside mesageRecieve =========
+The method is POST
+('Received message is :: ', u'yes')
+('Received message type is :: ', <type 'unicode'>)
+GOT A MESSAGE:yes
+
+ ==========Inside Process Request =========
+yes
+('Number is = ', 3)
+('SENDING RESPONSE FLAG :', 'STRING')
+========== Inside mesageRecieve =========
+The method is POST
+('Received message is :: ', u'4')
+('Received message type is :: ', <type 'unicode'>)
+GOT A MESSAGE:4
+
+ ==========Inside Process Request =========
+4
+
+ ==========Inside chatbot =========
+1.0
+('Number is = ', 4)
+in postcard i == 0
+('SENDING RESPONSE FLAG :', 'STRING')
+========== Inside mesageRecieve =========
+The method is POST
+('Received message is :: ', u'Arnab')
+('Received message type is :: ', <type 'unicode'>)
+GOT A MESSAGE:Arnab
+
+ ==========Inside Process Request =========
+Arnab
+('Number is = ', 4)
+in postcard i == 1
+('SENDING RESPONSE FLAG :', 'STRING')
+========== Inside mesageRecieve =========
+The method is POST
+('Received message is :: ', u'Hi darling')
+('Received message type is :: ', <type 'unicode'>)
+GOT A MESSAGE:Hi darling
+
+ ==========Inside Process Request =========
+Hi darling
+('Number is = ', 4)
+in postcard i == 2
+('SENDING RESPONSE FLAG :', 'STRING')
+========== Inside mesageRecieve =========
+The method is POST
+('Received message is :: ', u'blah blah')
+('Received message type is :: ', <type 'unicode'>)
+GOT A MESSAGE:blah blah
+
+ ==========Inside Process Request =========
+blah blah
+('Number is = ', 4)
+in postcard i == 3
+('SENDING RESPONSE FLAG :', 'STRING')
+========== Inside mesageRecieve =========
+The method is POST
+('Received message is :: ', u'1')
+('Received message type is :: ', <type 'unicode'>)
+GOT A MESSAGE:1
+
+ ==========Inside Process Request =========
+1
+
+ ==========Inside chatbot =========
+1.0
+('Number is = ', 1)
+('SENDING RESPONSE FLAG :', 'STRING')
+========== Inside mesageRecieve =========
+The method is POST
+('Received message is :: ', u'12345')
+('Received message type is :: ', <type 'unicode'>)
+GOT A MESSAGE:12345
+
+ ==========Inside Process Request =========
+12345
+('Number is = ', 1)
+('SENDING RESPONSE FLAG :', 'STRING')

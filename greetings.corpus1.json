@@ -1,0 +1,443 @@
+{
+    "greetings": [
+        [
+            "Hello",
+            "Hi I am chat-bot AI. How may I help you? I will help of on your queries regarding posts.Choose from the following options:: type in numeric or text <li> </li> <li style='padding-left: 2cm;'> 1) Track your Package </li> <li style='padding-left: 2cm;'> 2) Schedule a Pickup </li> <li style='padding-left: 2cm;'> 3) Get Quote </li> <li style='padding-left: 2cm;'> 4) Send a Post Card </li> "
+        ],
+        [
+            "Hi",
+            "Hello I am chat-bot AI. How may I help you? I will help of on your queries regarding posts.Choose from the following options:: type in numeric or text <li style='padding-left: 2cm;'> 1) Track your Package </li> <li style='padding-left: 2cm;'> 2) Schedule a Pickup </li> <li style='padding-left: 2cm;'> 3) Get Quote </li> <li style='padding-left: 2cm;'> 4) Send a Post Card </li>"
+        ],
+        [
+            "Greetings",
+            "Hi I am chat-bot AI. How may I help you? I will help of on your queries regarding posts.Choose from the following options:: type in numeric or text 1) Track your Package 2) Schedule a Pickup 3 Get Quote 4 Send a Post Card 5 Know More about DHL 6) Genuine chat with me"
+        ],
+        [
+            "Hello",
+            "Greetings!, I am chat-bot AI. How may I help you? I will help of on your queries regarding posts.Choose from the following options:: type in numeric or text <li style='padding-left: 2cm;'> 1) Track your Package </li> <li style='padding-left: 2cm;'> 2) Schedule a Pickup </li> <li style='padding-left: 2cm;'> 3) Get Quote </li> <li style='padding-left: 2cm;'> 4) Send a Post Card </li>"
+        ],
+
+		[
+            "discounts",
+            "Hi, you can get more details at : https://www.expresseasystudent.in/offer.aspx"
+        ],
+
+		[
+            "discount",
+            "Hi, you can get more details at : https://www.expresseasystudent.in/offer.aspx"
+        ],
+
+		[
+            "offer",
+            "Hi, you can get more details at : https://www.expresseasystudent.in/offer.aspx"
+        ],
+		
+		[
+            "coupon",
+            "Hi, you can get more details at : https://www.expresseasystudent.in/offer.aspx"
+        ],
+
+		[
+            "tell me about discounts",
+            "Hi, you can get more details at : https://www.expresseasystudent.in/offer.aspx"
+        ],
+
+		[
+            "student discounts",
+            "Hi, you can get more details at : https://www.expresseasystudent.in/offer.aspx"
+        ],
+		[
+            "academic discount",
+            "Hi, you can get more details at : https://www.expresseasystudent.in/offer.aspx"
+        ],
+		
+		[
+            "academics discount",
+            "Hi, you can get more details at : https://www.expresseasystudent.in/offer.aspx"
+        ],
+
+		[
+            "academics discount",
+            "Hi, you can get more details at : https://www.expresseasystudent.in/offer.aspx"
+        ],
+		
+		[
+            "1",
+            "1"
+        ],
+		
+		[
+            "1.",
+            "1"
+        ],
+
+		[
+            "1)",
+            "1"
+        ],
+
+		[
+            "2",
+            "2"
+        ],
+		
+		[
+            "2.",
+            "2"
+        ],
+
+		[
+            "2)",
+            "2"
+        ],
+
+		[
+            "3",
+            "3"
+        ],
+		
+		[
+            "3.",
+            "3"
+        ],
+
+		[
+            "3)",
+            "3"
+        ],
+
+		[
+            "4",
+            "4"
+        ],
+		
+		[
+            "4.",
+            "4"
+        ],
+
+		[
+            "4)",
+            "4"
+        ],
+
+		[
+            "5",
+            "5"
+        ],
+		
+		[
+            "5.",
+            "5"
+        ],
+
+		[
+            "5)",
+            "5"
+        ],
+
+		[
+            "6",
+            "6"
+        ],
+		
+		[
+            "6.",
+            "6"
+        ],
+
+		[
+            "6)",
+            "6"
+        ],
+
+
+		[
+            "track your package",
+            "1"
+        ],
+
+		[
+            "track",
+            "1"
+        ],
+
+		[
+            "track package",
+            "1"
+        ],
+
+		[
+            "track consignment",
+            "1"
+        ],
+
+		[
+            "track parcel",
+            "1"
+        ],
+
+		[
+            "track my parcel",
+            "1"
+        ],
+
+		[
+            "where is my parcel",
+            "1"
+        ],
+		
+		[
+            "where is my package",
+            "1"
+        ],
+
+		[
+            "where is my package",
+            "1"
+        ],
+		
+
+		[
+            "get quote",
+            "3"
+        ],
+
+		[
+            "quote",
+            "2"
+        ],
+
+		[
+            "get estimate",
+            "2"
+        ],
+
+		[
+            "estimate",
+            "2"
+        ],
+
+		[
+            "schedule a pickup",
+            "3"
+        ],
+
+		[
+            "schedule pickup",
+            "3"
+        ],
+
+		[
+            "pickup",
+            "3"
+        ],
+
+		[
+            "shedule",
+            "3"
+        ],
+
+		[
+            "send a package",
+            "3"
+        ],
+
+		[
+            "send a parcel",
+            "3"
+        ],
+
+		[
+            "send parcel",
+            "3"
+        ],
+
+		[
+            "send package",
+            "3"
+        ],
+		
+		
+		[
+            "send a post card",
+            "4"
+        ],
+
+
+		[
+            "send a postcard",
+            "4"
+        ],
+
+		[
+            "send postcard",
+            "4"
+        ],
+
+		[
+            "send documents",
+            "4"
+        ],
+
+		[
+            "send docs",
+            "3"
+        ],
+
+		[
+            "docs",
+            "3"
+        ],
+
+		[
+            "send post card",
+            "4"
+        ],
+
+
+		[
+            "post card",
+            "4"
+        ],
+
+
+		[
+            "postcard",
+            "4"
+        ],
+
+		[
+            "services",
+            "5"
+        ],
+
+		[
+            "service",
+            "5"
+        ],
+        
+        [
+            "tell me about other services",
+            "5"
+        ],
+
+		[
+            "tell me about other service",
+            "5"
+        ],
+
+		[
+            "what are other service",
+            "5"
+        ],
+
+		[
+            "what are other services",
+            "5"
+        ],
+
+		[
+            "know more about our services",
+            "5"
+        ],
+
+		[
+            "want to chat with you",
+            "6"
+        ],
+
+		[
+            "casual chat with you",
+            "6"
+        ],
+
+		[
+            "chat with you",
+            "6"
+        ],
+
+		[
+            "chat",
+            "6"
+        ],
+
+		[
+            "envelope",
+            "Hi, you can find the details here : https://parcel.dhl.co.uk/dhl-service-point/size-and-price-guide"
+        ],
+
+		[
+            "box size",
+            "Hi, you can find the details here : https://parcel.dhl.co.uk/dhl-service-point/size-and-price-guide"
+        ],
+
+		[
+            "box",
+            "Hi, you can find the details here : https://parcel.dhl.co.uk/dhl-service-point/size-and-price-guide"
+        ],
+
+		[
+            "size",
+            "Hi, you can find the details here : https://parcel.dhl.co.uk/dhl-service-point/size-and-price-guide"
+        ],
+
+		[
+            "size and price",
+            "Hi, you can find the details here : https://parcel.dhl.co.uk/dhl-service-point/size-and-price-guide"
+        ],
+
+		[
+            "price",
+            "Hi, you can find the details here : https://parcel.dhl.co.uk/dhl-service-point/size-and-price-guide. For getiing a Quote choose option from main menu"
+        ],
+
+		[
+            "outlet",
+            "Hi, you can find the details here : https://parcel.dhl.co.uk/dhl-service-point/office-outlet"
+        ],
+
+		[
+            "drop-off points",
+            "Hi, you can find the details here : https://parcel.dhl.co.uk/dhl-service-point/office-outlet"
+        ],
+
+		[
+            "drop-off",
+            "Hi, you can find the details here : https://parcel.dhl.co.uk/dhl-service-point/office-outlet"
+        ],
+
+		[
+            "customs paperwork",
+            "Hi, you can find the details here : http://www.dhl.com/en/express/customs_support/customs_paperwork.html"
+        ],
+
+		[
+            "custom",
+            "Hi, you can find the details here : http://www.dhl.com/en/express/customs_support/customs_paperwork.html"
+        ],
+
+		[
+            "paperwork",
+            "Hi, you can find the details here : http://www.dhl.com/en/express/customs_support/customs_paperwork.html"
+        ],
+
+		[
+            "paper",
+            "Hi, you can find the details here : http://www.dhl.com/en/express/customs_support/customs_paperwork.html"
+        ],
+
+
+		[
+            "paperwork",
+            "Hi, you can find the details here : http://www.dhl.com/en/express/customs_support/customs_paperwork.html"
+        ],
+
+		[
+            "paper",
+            "Hi, you can find the details here : http://www.dhl.com/en/express/customs_support/customs_paperwork.html"
+        ]
+
+
+    ]
+}

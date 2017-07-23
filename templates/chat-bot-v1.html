@@ -1,6 +1,4 @@
 <!DOCTYPE html>
-<meta http-equiv="Cache-control" content="no-cache">
-<meta http-equiv="Expires" content="-1">
 <html lang="en">
 
 <head>
@@ -15,18 +13,18 @@
     <link rel="stylesheet" href="./static/stylesheets/style_for_conv.css">
 	
     <style>
-		html, body{
-		  font-size:13px;
-		}
-		a{
-		  color: #0000FF;
-		  text-decoration: none;
-		}
-		a:hover,
-		a:focus {
-		  color: #00009C;
-		  text-decoration: underline;
-		}
+    html, body{
+      font-size:13px;
+    }
+    a{
+      color: #0000FF;
+      text-decoration: none;
+    }
+    a:hover,
+    a:focus {
+      color: #00009C;
+      text-decoration: underline;
+    }
     </style>   
 	
 	<script src="./static/js/jquery.min.js"></script>
@@ -35,30 +33,29 @@
 </head>
 
 
-<body style="background-color: aliceblue;">
-<div id="wrapper" >
-    <div class="container" >
-		<div class="drag-panel" id="upload_link">
+<body>
+<div id="wrapper">
+    <div class="container">
         <div class="row">
-			<div class="col-md-10 col-md-offset-2">
+			<div class="col-md-10 col-md-offset-1">
                 <div class="w3-row-padding w3-padding-small">
-                    <!-- <div class="w3-container w3-quarter"  style="height:50px;width:170px;">
+                    <div class="w3-container w3-quarter"  style="height:50px;width:170px;">
                         <img src="static/images/livechat.png" alt="AI ChatBot" style="height:50px;width:170px;">
-                    </div>    --> 
+                    </div>    
                 </div>
 				
 				<form id="file_upload_form"  method="POST" enctype="multipart/form-data" style="display:none">
-					<input id="browse" name="fileUpload"  type="file" accept="application/pdf,.jpg,.jpeg,.png," />						
+					<input id="browse" name="fileUpload"  type="file" accept="application/pdf,.jpg,.jpeg,.png," />	
 				</form>
-				
-                <div class="w3-row-padding" style="margin-top:40px;">
+
+                <div class="w3-row-padding">
                 <div class="w3-container w3-col w3-card-4 m6 l6">
                     <header class="w3-cell-row w3-blue">
                     <div class="w3-container w3-cell w3-cell-middle"><h5> Welcome to AI Chat-Bot </h5></div>
                     <div class="w3-container w3-cell w3-cell-middle w3-right-align"><img class="w3-btn w3-blue w3-margin-0 w3-hover-purple" src="static/images/refresh.png" alt="Refresh" id="btnRefresh" style="height:45px;width:60px;"></div>
                     </header>
 
-                    <div id="messageList" >
+                    <div id="messageList" style="height:350px;overflow-y:scroll;">
                     <ul id="list"></ul>
                     </div>
 
@@ -77,12 +74,12 @@
                 </div>
             </div>
         </div>
-		</div>
     </div>
 </div>	
 	
-	<script src="./static/js/bootstrap.min.js?n=1"></script>
-	<script src="./static/js/script_for_chatBot.js?n=1"></script>  
+	<script src="./static/js/script_for_chatBot.js"></script>
+    <script src="./static/js/bootstrap.min.js"></script>
 
 </body>
+
 </html>

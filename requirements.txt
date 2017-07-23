@@ -1,7 +1,9 @@
 Flask==0.12
-flask-socketio==2.8.5
-eventlet==0.20.1
-gunicorn==19.6.0
-watson_developer_cloud==0.23.0
-retrying
-uwsgi
+chatterbot
+nltk
+geocoder
+werkzeug
+pprint
+bs4
+requests
+lxml
