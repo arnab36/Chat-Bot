@@ -59,7 +59,7 @@ app.config['DATABASE'] = 'database/'
 #eventlet.monkey_patch()
 
 local_memory = {}
-local_memory["Thank you.The following is your Percel description."] = ""
+local_memory["#Thank you.The following is your Percel description."] = ""
 
 status_file_name = "status.json"
 country_city_file_name = "countriesToCities.json"
@@ -447,10 +447,10 @@ def call_for_quote(message,i=0):
 		try:
 			selectedoption = int(message) - 1
 			if len(dest_pin) > selectedoption and len(dest_pin) >= 0:
-				resp = "You selected "+ dest_pin[selectedoption]
-				#Compute time and price here	
+				resp = "You selected "+ dest_pin[selectedoption]++". <br>"				#Compute time and price here	
 				delivery_date = dateTime.getDeliveryDate()
-				resp += ". Your Parcel will be deliverd by :: " + delivery_date
+				resp += "Your Parcel will be deliverd by :: " + delivery_date +"<br>"
+				resp += "Your delivery charge will be :: " + randint(50,500)
 				return (-1, 0,resp)
 			else:
 				resp = "Not correct choice selected. Please select again."
